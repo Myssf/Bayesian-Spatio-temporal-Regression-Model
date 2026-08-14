@@ -1,5 +1,3 @@
-# S-T-model
-Codes for S-T simulation
 # Bayesian Spatio-temporal Regression Model
 
 Simulation code for a Bayesian spatio-temporal model of **group (pooled) testing**
