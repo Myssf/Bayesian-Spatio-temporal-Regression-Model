@@ -11,3 +11,4 @@ disease prevalence over space and time.
 - **Dorfman testing (DT)** — pools are tested first; specimens in positive pools
   are then retested individually.
 - **Master-pool testing (PT)** — pools tested once, with no individual retesting.
+- **Realistic master-pool testing (RPT)** — pools tested once, with realistic pool sizes, no individual retesting.
