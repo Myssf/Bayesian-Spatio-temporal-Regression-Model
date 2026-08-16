@@ -10,5 +10,5 @@ disease prevalence over space and time.
 - **Individual testing (IT)** — each specimen tested separately (baseline).
 - **Dorfman testing (DT)** — pools are tested first; specimens in positive pools
   are then retested individually.
-- **Master-pool testing (PT)** — pools tested once, with no individual retesting.
-- **Realistic master-pool testing (RPT)** — pools tested once, with realistic pool sizes, no individual retesting.
+- **Master-pool testing (MPT)** — pools tested once, with no individual retesting.
+- **Realistic master-pool testing (RMPT)** — pools tested once, with realistic pool sizes, no individual retesting.
